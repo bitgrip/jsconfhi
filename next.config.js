@@ -4,7 +4,7 @@ const images = require('remark-images');
 const emoji = require('remark-emoji');
 
 const nextConfig = {
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/EvalMDX' : ''
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/jsconfhi' : ''
 };
 
 const withMDX = require('@zeit/next-mdx')({

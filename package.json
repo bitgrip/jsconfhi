@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "name": "jsconfhi",
+  "version": "1.0.0",
+  "description": "nextjs + mdx diary",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "npm run build && next export -o docs",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitgrip/jsconfhi.git"
+  },
+  "author": "Joerg Patzer <joerg.patzer@bitgrip.de> (https://www.bitgrip.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitgrip/jsconfhi/issues"
+  },
+  "homepage": "https://github.com/bitgrip/jsconfhi#readme",
+  "dependencies": {
+    "@mdx-js/loader": "^0.16.8",
+    "@mdx-js/mdx": "^0.16.8",
+    "@zeit/next-mdx": "^1.2.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "next": "^7.0.2",
+    "next-compose-plugins": "^2.1.1",
+    "next-optimized-images": "^2.3.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "remark-emoji": "^2.0.2",
+    "remark-images": "^0.16.8",
+    "webfontloader": "^1.6.28"
+  }
+}

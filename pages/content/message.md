@@ -1,6 +1,6 @@
-import Image from './jsconfhi.jpg';
+import Image from './fantasticfour_js.jpg';
 
-# :wave: JSCONF HAWAIʻI
+# ALOHA, JSCONF HAWAIʻI
 
 Our mission: Get a fun, unique and sunny environment where diversity thrives and 
 attendees can come together to discuss JavaScript as a technology and grow it as a community.

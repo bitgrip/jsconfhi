@@ -7180,14 +7180,14 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
-/***/ "./pages/content/jsconfhi.jpg":
-/*!************************************!*\
-  !*** ./pages/content/jsconfhi.jpg ***!
-  \************************************/
+/***/ "./pages/content/fantasticfour_js.jpg":
+/*!********************************************!*\
+  !*** ./pages/content/fantasticfour_js.jpg ***!
+  \********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/jsconfhi-692a99376c3da0dee92c5f4800c309c8.jpg";
+module.exports = "/_next/static/images/fantasticfour_js-c82c1dfe01d03dfd5495ef4f25fae4fe.jpg";
 
 /***/ }),
 
@@ -7205,8 +7205,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _jsconfhi_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./jsconfhi.jpg */ "./pages/content/jsconfhi.jpg");
-/* harmony import */ var _jsconfhi_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_jsconfhi_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./fantasticfour_js.jpg */ "./pages/content/fantasticfour_js.jpg");
+/* harmony import */ var _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/jsconfhi/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7348,7 +7348,7 @@ function (_React$Component) {
         },
         __self: this
       }, "#JSConfHi"), "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _jsconfhi_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+        src: _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "JSCONFHI",
         __source: {
           fileName: _jsxFileName,

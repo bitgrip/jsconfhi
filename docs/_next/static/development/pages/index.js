@@ -7180,17 +7180,6 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
-/***/ "./pages/content/fantasticfour_js.jpg":
-/*!********************************************!*\
-  !*** ./pages/content/fantasticfour_js.jpg ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/fantasticfour_js-c82c1dfe01d03dfd5495ef4f25fae4fe.jpg";
-
-/***/ }),
-
 /***/ "./pages/content/message.md":
 /*!**********************************!*\
   !*** ./pages/content/message.md ***!
@@ -7205,8 +7194,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./fantasticfour_js.jpg */ "./pages/content/fantasticfour_js.jpg");
-/* harmony import */ var _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./spam-patrol.gif */ "./pages/content/spam-patrol.gif");
+/* harmony import */ var _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/jsconfhi/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7274,7 +7263,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "\uD83D\uDC4B JSCONF HAWAI\u02BBI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+      }, "ALOHA, JSCONF HAWAI\u02BBI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
         name: "p",
         components: components,
         __source: {
@@ -7282,86 +7271,36 @@ function (_React$Component) {
           lineNumber: 22
         },
         __self: this
-      }, "Our mission: Get a fun, unique and sunny environment where diversity thrives and\nattendees can come together to discuss JavaScript as a technology and grow it as a community."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "p",
-        components: components,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 24
-        },
-        __self: this
-      }, "One of the beautiful places on Earth, 12.000 km from Berlin, no other island group is so far away from a mainland:", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+      }, "We kindly invite you to join our wonderful slack channel at", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
         name: "br",
         components: components,
         parentName: "p",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 24
+          lineNumber: 22
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "em",
-        components: components,
-        parentName: "p",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, "Philipp"), ", ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "em",
-        components: components,
-        parentName: "p",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, "Paul"), ", ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "em",
-        components: components,
-        parentName: "p",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, "Matthias"), " and ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "em",
-        components: components,
-        parentName: "p",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 25
-        },
-        __self: this
-      }, "Joerg"), " are ahead of Honolulu, ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
         name: "a",
         components: components,
         parentName: "p",
         props: {
-          "href": "https://twitter.com/search?f=tweets&vertical=default&q=jsconfhi"
+          "href": "https://bitgrip.slack.com/messages/CG0NFJH45"
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 23
         },
         __self: this
-      }, "#JSConfHi"), "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _fantasticfour_js_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+      }, "#jsconf-hawaii-news")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        src: _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "JSCONFHI",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 26
+          lineNumber: 24
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 28
-        },
-        __self: this
-      }, "stay tuned."));
+      }));
     }
   }]);
 
@@ -7388,6 +7327,17 @@ function (_React$Component) {
     })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/content/message")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
+
+/***/ }),
+
+/***/ "./pages/content/spam-patrol.gif":
+/*!***************************************!*\
+  !*** ./pages/content/spam-patrol.gif ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/spam-patrol-d5c5450838a8fb65f7b601bb53349699.gif";
 
 /***/ }),
 

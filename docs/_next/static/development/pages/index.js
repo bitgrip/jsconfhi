@@ -7180,6 +7180,17 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
+/***/ "./pages/content/f4-2.jpg":
+/*!********************************!*\
+  !*** ./pages/content/f4-2.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/f4-2-a6617e961bf387bcb3ba54414a9f3bd7.jpg";
+
+/***/ }),
+
 /***/ "./pages/content/message.md":
 /*!**********************************!*\
   !*** ./pages/content/message.md ***!
@@ -7194,8 +7205,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./spam-patrol.gif */ "./pages/content/spam-patrol.gif");
-/* harmony import */ var _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _f4_2_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./f4-2.jpg */ "./pages/content/f4-2.jpg");
+/* harmony import */ var _f4_2_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_f4_2_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/jsconfhi/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7263,7 +7274,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "ALOHA, JSCONF HAWAI\u02BBI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+      }, "ALOHA, HAWAI\u02BBI"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
         name: "p",
         components: components,
         __source: {
@@ -7271,7 +7282,7 @@ function (_React$Component) {
           lineNumber: 22
         },
         __self: this
-      }, "We kindly invite you to join our wonderful slack channel at", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+      }, "Thank you for following us on:", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
         name: "br",
         components: components,
         parentName: "p",
@@ -7293,14 +7304,22 @@ function (_React$Component) {
         },
         __self: this
       }, "#jsconf-hawaii-news")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _spam_patrol_gif__WEBPACK_IMPORTED_MODULE_2___default.a,
+        src: _f4_2_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "JSCONFHI",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 24
         },
         __self: this
-      }));
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+        name: "p",
+        components: components,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
+        },
+        __self: this
+      }, "But we're are still here ;)  "));
     }
   }]);
 
@@ -7327,17 +7346,6 @@ function (_React$Component) {
     })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/content/message")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
-
-/***/ }),
-
-/***/ "./pages/content/spam-patrol.gif":
-/*!***************************************!*\
-  !*** ./pages/content/spam-patrol.gif ***!
-  \***************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/spam-patrol-d5c5450838a8fb65f7b601bb53349699.gif";
 
 /***/ }),
 

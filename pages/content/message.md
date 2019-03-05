@@ -1,10 +1,9 @@
-import Image2 from './f4-2.jpg';
+import Image from './dynamic_duo.jpg';
 
-# ALOHA, HAWAIʻI
+# #DynamicDuo taking over Frankenthal
 
-Thank you for following us on:  
-[#jsconf-hawaii-news](https://bitgrip.slack.com/messages/CG0NFJH45)
+On a schooling mission for CoreMedia Studio Content.
+<br />
+<img src={Image} alt="DUO" />
 
-<img src={Image2} alt="JSCONFHI" />
 
-But we're are still here ;)  

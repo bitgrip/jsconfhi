@@ -1,6 +1,6 @@
 import Image from './dynamic_duo.jpg';
 
-# #DynamicDuo taking over Frankenthal
+# #DynamicDuo heading over to Frankenthal
 
 On a schooling mission for CoreMedia Studio Content.
 <br />

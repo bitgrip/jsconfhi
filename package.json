@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "jsconfhi",
+  "name": "message",
   "version": "1.0.0",
   "description": "nextjs + mdx diary",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitgrip/jsconfhi.git"
+    "url": "git+https://github.com/bitgrip/message.git"
   },
   "author": "Joerg Patzer <joerg.patzer@bitgrip.de> (https://www.bitgrip.de/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitgrip/jsconfhi/issues"
+    "url": "https://github.com/bitgrip/message/issues"
   },
-  "homepage": "https://github.com/bitgrip/jsconfhi#readme",
+  "homepage": "https://github.com/bitgrip/message#readme",
   "dependencies": {
     "@mdx-js/loader": "^0.16.8",
     "@mdx-js/mdx": "^0.16.8",

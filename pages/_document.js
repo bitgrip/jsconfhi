@@ -78,7 +78,7 @@ export default class extends Document {
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="shortcut icon" href="/jsconfhi/static/favicon.ico" />
+        <link rel="shortcut icon" href="/message/static/favicon.ico" />
         <style>{globalStyles}</style>
       </Head>
       <body className="text-center">

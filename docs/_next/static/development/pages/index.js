@@ -7256,14 +7256,20 @@ function (_React$Component) {
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "h1",
+        name: "p",
         components: components,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
         },
         __self: this
-      }, "We proudly present the favorite ", "\u26BD", "\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
+      }, "We proudly present the favorite ", "\u26BD", "\uFE0F colors")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -7314,7 +7320,7 @@ function (_React$Component) {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/team-fact-6e27641cd4fe761f2b73c966389a9672.jpg";
+module.exports = "/_next/static/images/team-fact-9fbe4af86eace5b7c2230bb6735bd3d0.jpg";
 
 /***/ }),
 

@@ -1,8 +1,7 @@
-import Image from './dynamic_duo.jpg';
+import Image from './team-fact.jpg';
 
-# #DynamicDuo heading over to Frankenthal
+# We proudly present the favorite ⚽️ colors
 
-On a schooling mission for CoreMedia Studio Content.
 <br />
 <img src={Image} alt="DUO" />
 

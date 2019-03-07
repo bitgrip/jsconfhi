@@ -8,6 +8,7 @@ export default ({ children, title = 'Aloha' }) => (
     </Head>
 
     <main>
+      <h1>We proudly present the favorite &#9917; colors</h1>
       { children }
     </main>
 

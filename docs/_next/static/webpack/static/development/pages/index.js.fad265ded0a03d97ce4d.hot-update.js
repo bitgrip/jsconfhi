@@ -83,7 +83,14 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "We proudly present the favorite \u26BD\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "We proudly present the favorite ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("em", {
+        className: "lovely",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
+      }, "\u26BD"), "\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -128,4 +135,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.837e27dfcca9dc3f5fde.hot-update.js.map
+//# sourceMappingURL=index.js.fad265ded0a03d97ce4d.hot-update.js.map

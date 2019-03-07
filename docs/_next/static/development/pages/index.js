@@ -7263,7 +7263,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "We proudly present the favorite \u26BD\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "We proudly present the favorite ", "\u26BD", "\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22

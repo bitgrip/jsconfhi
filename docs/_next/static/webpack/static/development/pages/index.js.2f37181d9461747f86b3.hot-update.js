@@ -83,12 +83,24 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "We proudly present the favorite \u26BD\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+      }, "We proudly present the favorite ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("em", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21
+        },
+        __self: this
+      }, "\u26BD"), "\uFE0F colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: _team_fact_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "DUO",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 22
+          lineNumber: 23
         },
         __self: this
       }));
@@ -122,4 +134,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.0f214db689f95eaab172.hot-update.js.map
+//# sourceMappingURL=index.js.2f37181d9461747f86b3.hot-update.js.map

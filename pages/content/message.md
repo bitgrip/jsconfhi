@@ -1,6 +1,6 @@
-import Image from './team-fact.jpg';
+import Image from './starwars.jpg';
 
-# We proudly present the favorite soccer colors
+# Almost a 'battle of faith', mostly an either/or-question.
 
 <br />
 <br />

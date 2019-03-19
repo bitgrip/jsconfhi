@@ -7194,8 +7194,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _team_fact_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./team-fact.jpg */ "./pages/content/team-fact.jpg");
-/* harmony import */ var _team_fact_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_team_fact_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _starwars_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./starwars.jpg */ "./pages/content/starwars.jpg");
+/* harmony import */ var _starwars_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_starwars_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7263,18 +7263,30 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "We proudly present the favorite soccer colors"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "Almost a 'battle of faith', mostly an either/or-question."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _team_fact_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
-        alt: "DUO",
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 24
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        src: _starwars_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+        alt: "DUO",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
         },
         __self: this
       }));
@@ -7307,14 +7319,14 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ "./pages/content/team-fact.jpg":
-/*!*************************************!*\
-  !*** ./pages/content/team-fact.jpg ***!
-  \*************************************/
+/***/ "./pages/content/starwars.jpg":
+/*!************************************!*\
+  !*** ./pages/content/starwars.jpg ***!
+  \************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/team-fact-9fbe4af86eace5b7c2230bb6735bd3d0.jpg";
+module.exports = "/_next/static/images/starwars-904b8ae4488e44a1dd9e177124104b55.jpg";
 
 /***/ }),
 

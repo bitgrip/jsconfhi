@@ -1,6 +1,6 @@
-import Image from './starwars.jpg';
+import Image from './pirates.png';
 
-# Almost a 'battle of faith', mostly an either/or-question.
+# Pirates of the Norderelbe
 
 <br />
 <br />

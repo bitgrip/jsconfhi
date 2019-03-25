@@ -7180,6 +7180,17 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
+/***/ "./pages/content/bitgrip_webinar.jpg":
+/*!*******************************************!*\
+  !*** ./pages/content/bitgrip_webinar.jpg ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/bitgrip_webinar-1773054128214b555899803a3515c71a.jpg";
+
+/***/ }),
+
 /***/ "./pages/content/message.md":
 /*!**********************************!*\
   !*** ./pages/content/message.md ***!
@@ -7194,8 +7205,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _pirates_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./pirates.png */ "./pages/content/pirates.png");
-/* harmony import */ var _pirates_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_pirates_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _bitgrip_webinar_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./bitgrip_webinar.jpg */ "./pages/content/bitgrip_webinar.jpg");
+/* harmony import */ var _bitgrip_webinar_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_bitgrip_webinar_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7263,7 +7274,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "Pirates of the Norderelbe"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "CMS giving you lemons?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -7282,7 +7293,7 @@ function (_React$Component) {
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _pirates_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+        src: _bitgrip_webinar_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "DUO",
         __source: {
           fileName: _jsxFileName,
@@ -7316,17 +7327,6 @@ function (_React$Component) {
     })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/content/message")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
-
-/***/ }),
-
-/***/ "./pages/content/pirates.png":
-/*!***********************************!*\
-  !*** ./pages/content/pirates.png ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/pirates-579d0c4d30193ff1950bfcaea6cf5ba8.png";
 
 /***/ }),
 

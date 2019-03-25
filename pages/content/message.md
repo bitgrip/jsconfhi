@@ -1,6 +1,6 @@
-import Image from './pirates.png';
+import Image from './bitgrip_webinar.jpg';
 
-# Pirates of the Norderelbe
+# CMS giving you lemons?
 
 <br />
 <br />

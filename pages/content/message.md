@@ -1,6 +1,6 @@
-import Image from './bitgrip_webinar.jpg';
+import Image from './teamfact.jpg';
 
-# CMS giving you lemons?
+# Cheers mates!
 
 <br />
 <br />

@@ -18,7 +18,7 @@ const globalStyles = `
       height: 100%; }
   
   body {
-      background-color: #069;
+      background-color: #000;
       color: #fff;
       display: grid;
       grid-template-rows: 1fr auto;

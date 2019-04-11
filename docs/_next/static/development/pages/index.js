@@ -7180,6 +7180,17 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
+/***/ "./pages/content/dso.jpg":
+/*!*******************************!*\
+  !*** ./pages/content/dso.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/dso-f1637414d3196fdc7bf1d43f4f5d2878.jpg";
+
+/***/ }),
+
 /***/ "./pages/content/message.md":
 /*!**********************************!*\
   !*** ./pages/content/message.md ***!
@@ -7194,8 +7205,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _teamfact_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./teamfact.jpg */ "./pages/content/teamfact.jpg");
-/* harmony import */ var _teamfact_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_teamfact_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./dso.jpg */ "./pages/content/dso.jpg");
+/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dso_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7255,15 +7266,13 @@ function (_React$Component) {
           lineNumber: 17
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "h1",
-        components: components,
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
         },
         __self: this
-      }, "Cheers mates!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -7275,18 +7284,12 @@ function (_React$Component) {
           lineNumber: 23
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 24
-        },
-        __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _teamfact_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+        src: _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "DUO",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 24
         },
         __self: this
       }));
@@ -7316,17 +7319,6 @@ function (_React$Component) {
     })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/content/message")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
-
-/***/ }),
-
-/***/ "./pages/content/teamfact.jpg":
-/*!************************************!*\
-  !*** ./pages/content/teamfact.jpg ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/teamfact-7b55834e0b1276a84b6c7e18646d70f3.jpg";
 
 /***/ }),
 

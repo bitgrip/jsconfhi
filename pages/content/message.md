@@ -1,6 +1,4 @@
-import Image from './teamfact.jpg';
-
-# Cheers mates!
+import Image from './dso.jpg';
 
 <br />
 <br />

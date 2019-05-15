@@ -7274,7 +7274,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "Mehr \"Holz\" hacken..!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "Mehr \"Holz\" hacken..Forsthaus Sommerswalde!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22

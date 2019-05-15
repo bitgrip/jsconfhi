@@ -1,16 +1,5 @@
 webpackHotUpdate("static/development/pages/index.js",{
 
-/***/ "./pages/content/dso.jpg":
-/*!*******************************!*\
-  !*** ./pages/content/dso.jpg ***!
-  \*******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = "/_next/static/images/dso-f1637414d3196fdc7bf1d43f4f5d2878.jpg";
-
-/***/ }),
-
 /***/ "./pages/content/message.md":
 /*!**********************************!*\
   !*** ./pages/content/message.md ***!
@@ -25,8 +14,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./dso.jpg */ "./pages/content/dso.jpg");
-/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dso_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./codinghouse.jpg */ "./pages/content/codinghouse.jpg");
+/* harmony import */ var _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -94,7 +83,7 @@ function (_React$Component) {
           lineNumber: 21
         },
         __self: this
-      }, "Cheers mates!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "Mehr Holz hacken..!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -113,7 +102,7 @@ function (_React$Component) {
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+        src: _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "DUO",
         __source: {
           fileName: _jsxFileName,
@@ -148,10 +137,7 @@ function (_React$Component) {
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
 
-/***/ }),
-
-/***/ "./pages/content/teamfact.jpg":
-false
+/***/ })
 
 })
-//# sourceMappingURL=index.js.89da642ac6ed86342bfd.hot-update.js.map
+//# sourceMappingURL=index.js.bd4dc159f6a57a7d61ed.hot-update.js.map

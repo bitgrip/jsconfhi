@@ -1,4 +1,6 @@
-import Image from './dso.jpg';
+import Image from './codinghouse.jpg';
+
+# Mehr "Holz" hacken..!
 
 <br />
 <br />

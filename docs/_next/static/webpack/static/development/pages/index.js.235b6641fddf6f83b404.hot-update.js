@@ -14,8 +14,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./dso.jpg */ "./pages/content/dso.jpg");
-/* harmony import */ var _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dso_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./codinghouse.jpg */ "./pages/content/codinghouse.jpg");
+/* harmony import */ var _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -75,13 +75,15 @@ function (_React$Component) {
           lineNumber: 17
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
+        name: "h1",
+        components: components,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+      }, "Mehr \"Holz\" hacken..!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -93,12 +95,18 @@ function (_React$Component) {
           lineNumber: 23
         },
         __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _dso_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
-        alt: "DUO",
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 24
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        src: _codinghouse_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+        alt: "DUO",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25
         },
         __self: this
       }));
@@ -132,4 +140,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.0cc975989febcabdd5cd.hot-update.js.map
+//# sourceMappingURL=index.js.235b6641fddf6f83b404.hot-update.js.map

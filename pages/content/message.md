@@ -1,6 +1,4 @@
-import Image from './codinghouse.jpg';
-
-# Mehr "Holz" hacken..Forsthaus Sommerswalde!
+import Image from './dso.jpg';
 
 <br />
 <br />

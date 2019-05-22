@@ -1,5 +1,6 @@
-import Image from './dso.jpg';
+import Image from './ikkrun.jpg';
 
+# Run, Run, Run ...
 <br />
 <br />
 <br />

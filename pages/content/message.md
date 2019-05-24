@@ -1,9 +1,5 @@
-import Image from './ikkrun.jpg';
+import Image from './eisernlogo.png';
 
-# Run, Run, Run ...
-<br />
-<br />
-<br />
 <img src={Image} alt="DUO" />
 
 

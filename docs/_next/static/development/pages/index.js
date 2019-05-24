@@ -7180,14 +7180,14 @@ module.exports = function(originalModule) {
 
 /***/ }),
 
-/***/ "./pages/content/ikkrun.jpg":
-/*!**********************************!*\
-  !*** ./pages/content/ikkrun.jpg ***!
-  \**********************************/
+/***/ "./pages/content/eisernlogo.png":
+/*!**************************************!*\
+  !*** ./pages/content/eisernlogo.png ***!
+  \**************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/ikkrun-4137f21764cea95dee4131cd2ca594ca.jpg";
+module.exports = "/_next/static/images/eisernlogo-03d06d03a4f2fddab8e95ded1ee59c1d.png";
 
 /***/ }),
 
@@ -7205,8 +7205,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @mdx-js/tag */ "./node_modules/@mdx-js/tag/dist/index.js");
 /* harmony import */ var _mdx_js_tag__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _ikkrun_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ikkrun.jpg */ "./pages/content/ikkrun.jpg");
-/* harmony import */ var _ikkrun_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_ikkrun_jpg__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _eisernlogo_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./eisernlogo.png */ "./pages/content/eisernlogo.png");
+/* harmony import */ var _eisernlogo_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_eisernlogo_png__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/jopa/Projects/Bitgrip/message/pages/content/message.md";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
@@ -7266,38 +7266,12 @@ function (_React$Component) {
           lineNumber: 17
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_mdx_js_tag__WEBPACK_IMPORTED_MODULE_1__["MDXTag"], {
-        name: "h1",
-        components: components,
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 21
-        },
-        __self: this
-      }, "Run, Run, Run ..."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 22
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 23
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 24
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: _ikkrun_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        src: _eisernlogo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
         alt: "DUO",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 25
+          lineNumber: 21
         },
         __self: this
       }));

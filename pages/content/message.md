@@ -1,4 +1,4 @@
-import Image from './dso.jpg';
+import Image from './enterprise_cat.jpeg';
 
 <br />
 <br />

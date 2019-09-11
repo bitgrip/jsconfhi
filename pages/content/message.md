@@ -1,4 +1,4 @@
-import Image from './enterprise_cat.jpeg';
+import Image from './bitgrip_messe.jpg';
 
 <br />
 <br />

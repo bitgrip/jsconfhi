@@ -1,4 +1,4 @@
-import Image from './bitgrip_messe.jpg';
+import Image from './dso.jpg';
 
 <br />
 <br />
